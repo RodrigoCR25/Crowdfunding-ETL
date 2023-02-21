@@ -7,4 +7,4 @@ With the help of SQL, we were able to help Independent Funding to perform a data
 
 ________________________________________________________________________________________________________________________________________________________________
 
-![image]()
+![image](https://github.com/RodrigoCR25/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
